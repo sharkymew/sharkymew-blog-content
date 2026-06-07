@@ -1,49 +1,31 @@
+# SharkyMew
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+> The best way out is always through.
 
-::github{repo="matsuzaka-yuki/Mizuki"}
+你好，我是 SharkyMew。
 
-## 🌟 Theme Features
+这里是我的个人博客，也可以把它理解成一个长期整理的房间：写代码、记录工具链、保存一些生活切片，也放一点番剧、音乐、相册、设备和项目记录。
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+我最近主要折腾 AI 辅助开发、Swift / iOS、前端工程和本地自动化。相比追求炫技，我更喜欢能真正跑起来、容易维护、以后回头看也能读懂的东西。
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+## 我会在这里写什么
 
+- **AI 与开发工具实践**：记录实际使用、排查问题、方案取舍和踩坑过程。
+- **个人项目与技术笔记**：Swift、TypeScript、Astro，以及一些能提升日常效率的小工具。
+- **生活切片**：番剧、音乐、相册、设备，还有一些零散但值得留下的想法。
+- **复盘与整理**：把做过的判断、遇到的问题和最后的结论留下来，方便以后继续迭代。
 
+## 关于这个站点
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+SharkyMew Blog 基于 Astro 和 Mizuki 主题搭建。
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
+我希望它不是一个只摆结果的作品集，而是一个可以持续生长的个人空间：有时是一篇完整文章，有时是一段调试记录，有时只是把当下的兴趣和想法收好。
 
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+首页那句「わたしの部屋」差不多就是我对这里的定位。没有什么必须宏大的主题，只是把自己正在做、正在学、正在喜欢的东西慢慢放进来。
 
----
+## 找到我
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+- GitHub: [sharkymew](https://github.com/sharkymew)
+- Bilibili: [SharkyMew](https://space.bilibili.com/547949139/)
+
+如果你是从某篇文章来的，也欢迎从评论区继续聊。
