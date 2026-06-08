@@ -18,7 +18,7 @@ const diaryData: DiaryItem[] = [
 		content:
 			"The falling speed of cherry blossoms is five centimeters per second!",
 		date: "2025-01-15T10:30:00Z",
-		images: ["/images/diary/sakura.jpg", "/images/diary/1.jpg"],
+		images: ["/images/diary/sakura.jpg", "/images/diary/1.webp"],
 	},
 ];
 
@@ -82,7 +82,9 @@ export const getAllTags = () => {
 	const tags = new Set<string>();
 	diaryData.forEach((item) => {
 		if (item.tags) {
-			item.tags.forEach((tag) => tags.add(tag));
+			item.tags.forEach((tag) => {
+				tags.add(tag);
+			});
 		}
 	});
 	return Array.from(tags).sort();
