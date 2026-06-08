@@ -1,6 +1,6 @@
 ---
 title: "把 API Key 接入客户端"
-published: 2026-06-08
+published: 2026-06-08T12:50:00+08:00
 description: "记录如何把 AI API Key 接入本地客户端，并整理配置、保存与调用链路中的关键注意事项。"
 tags: [AI, API Key, 客户端]
 category: 技术
