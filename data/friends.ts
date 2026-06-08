@@ -15,8 +15,7 @@ export const friendsData: FriendItem[] = [
 	{
 		id: 1,
 		title: "Linux DO",
-		imgurl:
-			"https://cdn3.ldstatic.com/original/4X/d/1/4/d146c68151340881c884d95e0da4acdf369258c6.png",
+		imgurl: "/assets/friends/linux-do.svg",
 		desc: "新的理想型社区",
 		siteurl: "https://linux.do/",
 		tags: ["社区"],
