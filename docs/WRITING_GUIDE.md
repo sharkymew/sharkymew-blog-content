@@ -71,7 +71,8 @@ draft: false
 | `category` | String | 分类 | `技术` / `生活` / `随笔` |
 | `draft` | Boolean | 是否草稿 | `true` / `false` (默认 `false`) |
 | `lang` | String | 语言 | `zh-cn` / `en` / `ja` (默认 `zh-cn`) |
-| `password` | String | 加密密码 | `"my-secret-password"` |
+| `encrypted` | Boolean | 是否启用文章加密 | `true` / `false` (默认 `false`) |
+| `password` | String | 加密密码，必须配合 `encrypted: true` 使用 | `"my-secret-password"` |
 
 ### 高级字段
 
@@ -124,6 +125,7 @@ image: /images/posts/cover.jpg
 title: 私密文章
 published: 2024-01-01
 description: 这是一篇加密文章
+encrypted: true
 password: "my-secret-password"
 ---
 
